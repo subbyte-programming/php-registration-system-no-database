@@ -1,0 +1,42 @@
+[
+    {
+        "id": "STU_697a3cf0e4d57",
+        "name": "muhammad subhan",
+        "email": "abdulsubhan011@gmail.com",
+        "phone": "+923190306199",
+        "course": "Cyber Security",
+        "registration_date": "2026-01-28 17:44:32",
+        "ip_address": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 Edg\/144.0.0.0"
+    },
+    {
+        "id": "STU_697a3d08d7610",
+        "name": "subhan",
+        "email": "ehmm@gmail.com",
+        "phone": "+923190306199",
+        "course": "Mobile App Development",
+        "registration_date": "2026-01-28 17:44:56",
+        "ip_address": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 Edg\/144.0.0.0"
+    },
+    {
+        "id": "STU_697a3d16725d9",
+        "name": "subhan",
+        "email": "ehmm@gmail.com",
+        "phone": "+923190306199",
+        "course": "Python &amp; Django",
+        "registration_date": "2026-01-28 17:45:10",
+        "ip_address": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 Edg\/144.0.0.0"
+    },
+    {
+        "id": "STU_697b1603bd429",
+        "name": "muhammad",
+        "email": "muhammadsubhan@gmail.com",
+        "phone": "+9231000066",
+        "course": "Full Stack Web Development",
+        "registration_date": "2026-01-29 09:10:43",
+        "ip_address": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 Edg\/144.0.0.0"
+    }
+]
